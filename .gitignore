@@ -1,0 +1,5 @@
+TradingEngine
+RunTests
+*.o
+*.dSYM
+.DS_Store
